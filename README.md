@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 The **Enhanced PDF Viewer & Converter** is a desktop application designed to provide a user-friendly interface for viewing, navigating, and converting PDF and Word documents. Built using Python and PyQt5, this application combines the power of document manipulation with an intuitive graphical interface, making it easy to manage PDFs and Word files.
 
 ---
